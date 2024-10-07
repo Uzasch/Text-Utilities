@@ -1,2 +1,2 @@
 # Text-Utilities
-This a project i sued to learn React and BootStrap
+This a project i i used to learn React and BootStrap
